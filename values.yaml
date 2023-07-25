@@ -1,0 +1,8 @@
+# values.yaml
+
+replicaCount: 3
+image:
+  repository: mon-repo/image-app
+  tag: v1.0.0
+service:
+  port: 8080
